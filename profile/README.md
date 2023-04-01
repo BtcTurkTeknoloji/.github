@@ -8,6 +8,6 @@ At BtcTurkTeknoloji, we're committed to building innovative, secure, and user-fr
 
 We welcome contributions from the open-source community. If you're interested in contributing to any of our projects, please fork the repository and submit a pull request. We'll review your changes and merge them if they meet our quality standards.
 
-## Contact Us
+<!-- ## Contact Us
 
-If you have any questions or feedback, please feel free to contact us at [teknoloji@btcturk.com](mailto:teknoloji@btcturk.com). We'd love to hear from you!
+If you have any questions or feedback, please feel free to contact us at [teknoloji@btcturk.com](mailto:teknoloji@btcturk.com). We'd love to hear from you! -->
